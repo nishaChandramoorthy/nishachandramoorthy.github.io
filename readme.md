@@ -1,1 +1,1 @@
-# Notes on dynamical systems
+# Notes on applied dynamical systems
